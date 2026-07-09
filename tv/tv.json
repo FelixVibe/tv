@@ -13448,7 +13448,7 @@
       "ext": {
         "url": "http://v.rbotv.cn"
       },
-      "jar": "./jar/6a8b020b26785e6c.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/6a8b020b26785e6c"
     },
     {
       "key": "哔哩视频",
@@ -13467,7 +13467,7 @@
         "json": "http://7337.kstore.space/qxys/json/%E5%93%94%E5%93%A9%E8%A7%86%E9%A2%91.json",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       },
-      "jar": "./jar/6a8b020b26785e6c.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/6a8b020b26785e6c"
     },
     {
       "key": "金牌影视",
@@ -13480,7 +13480,7 @@
       "ext": {
         "site": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
       },
-      "jar": "./jar/6a8b020b26785e6c.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/6a8b020b26785e6c"
     },
     {
       "key": "苹果影视",
@@ -13490,7 +13490,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/6a8b020b26785e6c.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/6a8b020b26785e6c"
     },
     {
       "key": "骚火影视_2",
@@ -13502,7 +13502,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/6a8b020b26785e6c.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/6a8b020b26785e6c"
     },
     {
       "key": "农民影视",
@@ -13513,7 +13513,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./ext/农民影视_1.json",
-      "jar": "./jar/6a8b020b26785e6c.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/6a8b020b26785e6c"
     },
     {
       "key": "浪酷影视",
@@ -13526,7 +13526,7 @@
       "ext": {
         "url": "http://v.lkuys.cn"
       },
-      "jar": "./jar/6a8b020b26785e6c.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/6a8b020b26785e6c"
     },
     {
       "key": "天天影视",
@@ -13539,7 +13539,7 @@
       "ext": {
         "url": "http://tt.ysdqjs.cn"
       },
-      "jar": "./jar/6a8b020b26785e6c.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/6a8b020b26785e6c"
     },
     {
       "key": "1905",
@@ -13549,7 +13549,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "jar": "./jar/6a8b020b26785e6c.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/6a8b020b26785e6c"
     },
     {
       "key": "驿站",
@@ -13564,7 +13564,7 @@
       },
       "searchable": 1,
       "filterable": 1,
-      "jar": "./jar/6a8b020b26785e6c.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/6a8b020b26785e6c"
     },
     {
       "key": "360zy",
@@ -13627,7 +13627,7 @@
       },
       "searchable": 1,
       "filterable": 1,
-      "jar": "./jar/6a8b020b26785e6c.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/6a8b020b26785e6c"
     },
     {
       "key": "量子",
@@ -13663,7 +13663,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/6a8b020b26785e6c.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/6a8b020b26785e6c"
     },
     {
       "key": "哔滴",
@@ -13682,7 +13682,7 @@
       },
       "searchable": 1,
       "filterable": 1,
-      "jar": "./jar/6a8b020b26785e6c.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/6a8b020b26785e6c"
     },
     {
       "key": "哔哩合集",
@@ -13701,7 +13701,7 @@
         "json": "http://7337.kstore.space/qxys/json/%E5%93%94%E5%93%A9%E5%90%88%E9%9B%86.json",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       },
-      "jar": "./jar/6a8b020b26785e6c.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/6a8b020b26785e6c"
     },
     {
       "key": "小斑快映",
@@ -13712,8 +13712,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./ext/xbky.json",
-      "jar": "./jar/6a8b020b26785e6c.jar"
+      "ext": "http://7337.kstore.space/qxys/json/xbky.json",
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/6a8b020b26785e6c"
     },
     {
       "key": "玩偶哥哥",
@@ -13723,8 +13723,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./ext/wogg_1.json",
-      "jar": "./jar/6a8b020b26785e6c.jar"
+      "ext": "http://7337.kstore.space/qxys/json/wogg.json?",
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/6a8b020b26785e6c"
     },
     {
       "key": "蜡笔",
@@ -13735,8 +13735,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./ext/lb.json",
-      "jar": "./jar/6a8b020b26785e6c.jar"
+      "ext": "http://7337.kstore.space/qxys/json/lb.json",
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/6a8b020b26785e6c"
     },
     {
       "key": "闪电",
@@ -13747,8 +13747,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./ext/sd.json",
-      "jar": "./jar/6a8b020b26785e6c.jar"
+      "ext": "http://7337.kstore.space/qxys/json/sd.json",
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/6a8b020b26785e6c"
     },
     {
       "key": "123",
@@ -13763,8 +13763,8 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "./ext/123.json",
-      "jar": "./jar/6a8b020b26785e6c.jar"
+      "ext": "http://7337.kstore.space/qxys/json/123.json",
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/6a8b020b26785e6c"
     },
     {
       "key": "趣盘",
@@ -13781,7 +13781,7 @@
       "ext": {
         "url": "https://www.qupanshe.com"
       },
-      "jar": "./jar/6a8b020b26785e6c.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/6a8b020b26785e6c"
     },
     {
       "key": "雷鲸_2",
@@ -13796,8 +13796,8 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "./ext/lj.json",
-      "jar": "./jar/6a8b020b26785e6c.jar"
+      "ext": "http://7337.kstore.space/qxys/json/lj.json?",
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/6a8b020b26785e6c"
     },
     {
       "key": "88看球",
@@ -13807,11 +13807,11 @@
       "style": {
         "type": "list"
       },
-      "ext": "./ext/88看球_1.js",
+      "ext": "http://7337.kstore.space/qxys/lib/88%E7%9C%8B%E7%90%83.js",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/6a8b020b26785e6c.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/6a8b020b26785e6c"
     },
     {
       "key": "310直播",
@@ -13821,18 +13821,18 @@
       "style": {
         "type": "list"
       },
-      "ext": "./ext/310直播.js",
+      "ext": "http://7337.kstore.space/qxys/lib/310%E7%9B%B4%E6%92%AD.js",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/6a8b020b26785e6c.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/6a8b020b26785e6c"
     },
     {
       "key": "Jrsjs",
       "name": "七星⚽┃jrs球迷",
       "type": 3,
       "api": "http://7337.kstore.space/qxys/js/drpy2.min.js",
-      "ext": "./ext/jrk_1.js",
+      "ext": "http://7337.kstore.space/qxys/js/jrk.js",
       "style": {
         "type": "list"
       },
@@ -13840,51 +13840,51 @@
       "quickSearch": 0,
       "changeable": 0,
       "filterable": 1,
-      "jar": "./jar/6a8b020b26785e6c.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/6a8b020b26785e6c"
     },
     {
       "key": "呦呦DJ",
       "name": "七星🌟┃呦呦DJ",
       "type": 3,
       "api": "http://7337.kstore.space/qxys/js/drpy2.min.js",
-      "ext": "./ext/呦呦DJ.js",
+      "ext": "http://7337.kstore.space/qxys/js/%E5%91%A6%E5%91%A6DJ.js",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/6a8b020b26785e6c.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/6a8b020b26785e6c"
     },
     {
       "key": "清风DJ",
       "name": "七星🌟┃清风DJ",
       "type": 3,
       "api": "http://7337.kstore.space/qxys/js/drpy2.min.js",
-      "ext": "./ext/清风DJ.js",
+      "ext": "http://7337.kstore.space/qxys/js/%E6%B8%85%E9%A3%8EDJ.js",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/6a8b020b26785e6c.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/6a8b020b26785e6c"
     },
     {
       "key": "爱车MV",
       "name": "七星🌟┃爱车MV",
       "type": 3,
       "api": "http://7337.kstore.space/qxys/js/drpy2.min.js",
-      "ext": "./ext/爱车MV.js",
+      "ext": "http://7337.kstore.space/qxys/js/%E7%88%B1%E8%BD%A6MV.js",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/6a8b020b26785e6c.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/6a8b020b26785e6c"
     },
     {
       "key": "酷奇MV",
       "name": "七星🌟┃酷奇MV",
       "type": 3,
       "api": "http://7337.kstore.space/qxys/js/drpy2.min.js",
-      "ext": "./ext/酷奇MV_1.js",
+      "ext": "http://7337.kstore.space/qxys/js/%E9%85%B7%E5%A5%87MV.js",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/6a8b020b26785e6c.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/6a8b020b26785e6c"
     },
     {
       "key": "哔哩哔哩相声",
@@ -13902,7 +13902,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "./jar/6a8b020b26785e6c.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/6a8b020b26785e6c"
     },
     {
       "key": "哔哩哔哩小品",
@@ -13920,7 +13920,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "./jar/6a8b020b26785e6c.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/6a8b020b26785e6c"
     },
     {
       "key": "哔哩哔哩戏曲",
@@ -13938,7 +13938,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "./jar/6a8b020b26785e6c.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/6a8b020b26785e6c"
     },
     {
       "key": "戏曲多多",
@@ -13948,7 +13948,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/6a8b020b26785e6c.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/6a8b020b26785e6c"
     },
     {
       "key": "急救教学",
@@ -13964,7 +13964,7 @@
       },
       "gridview": "0-0-4.1",
       "filterable": 1,
-      "jar": "./jar/6a8b020b26785e6c.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/6a8b020b26785e6c"
     },
     {
       "key": "豆豆",
