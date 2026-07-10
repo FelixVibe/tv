@@ -6857,7 +6857,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://d.kstore.dev/download/15352/ext/saohuo.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/d845e3ed6f455605"
+      "jar": "./jar/d845e3ed6f455605.jar"
     },
     {
       "key": "视频采集3",
@@ -6989,7 +6989,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://d.kstore.dev/download/15352/ext/dashixong.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/d845e3ed6f455605"
+      "jar": "./jar/d845e3ed6f455605.jar"
     },
     {
       "key": "csp_xpath_555",
@@ -7000,7 +7000,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://d.kstore.dev/download/15352/ext/555.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/d845e3ed6f455605"
+      "jar": "./jar/d845e3ed6f455605.jar"
     },
     {
       "key": "csp_xpath_海兔",
@@ -7011,7 +7011,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://d.kstore.dev/download/15352/ext/haitu.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/d845e3ed6f455605"
+      "jar": "./jar/d845e3ed6f455605.jar"
     },
     {
       "key": "csp_xpath_飞兔",
@@ -7022,7 +7022,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://d.kstore.dev/download/15352/ext/feitu.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/d845e3ed6f455605"
+      "jar": "./jar/d845e3ed6f455605.jar"
     },
     {
       "key": "csp_xpath_飞兔成人",
@@ -7033,7 +7033,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://d.kstore.dev/download/15352/ext/feitucr.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/d845e3ed6f455605"
+      "jar": "./jar/d845e3ed6f455605.jar"
     },
     {
       "key": "本地",
@@ -7044,7 +7044,7 @@
       "changeable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/d845e3ed6f455605"
+      "jar": "./jar/d845e3ed6f455605.jar"
     },
     {
       "key": "IKUN资源",
@@ -7225,7 +7225,7 @@
       "ext": "https://d.kstore.dev/download/15352/ext/%E8%8D%90%E7%89%87.js",
       "timeout": 30,
       "filterable": 1,
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/d845e3ed6f455605"
+      "jar": "./jar/d845e3ed6f455605.jar"
     },
     {
       "key": "csp_短剧网",
@@ -7803,62 +7803,62 @@
       "quickSearch": 0,
       "filterable": 1,
       "type_flag": 0,
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "drpy_js_豆瓣",
       "name": "豆瓣[js] [⚠]",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/drpy.js",
+      "ext": "./ext/drpy.js",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "drpy_js_奇珍异兽",
       "name": "奇珍异兽[js] [⚠]",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/%E5%A5%87%E7%8F%8D%E5%BC%82%E5%85%BD.js",
+      "ext": "./ext/奇珍异兽.js",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "drpy_js_优酷",
       "name": "优酷[js] [⚠]",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/%E4%BC%98%E9%85%B7.js",
+      "ext": "./ext/优酷.js",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "drpy_js_腾云驾雾",
       "name": "腾云驾雾[js] [⚠]",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/%E8%85%BE%E4%BA%91%E9%A9%BE%E9%9B%BE.js",
+      "ext": "./ext/腾云驾雾.js",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "drpy_js_百忙无果",
       "name": "百忙无果[js] [⚠]",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/%E7%99%BE%E5%BF%99%E6%97%A0%E6%9E%9C.js",
+      "ext": "./ext/百忙无果.js",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "push_agent_3",
@@ -7868,7 +7868,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "csp_New6v",
@@ -7879,7 +7879,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.xb6v.com",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "csp_DyGod",
@@ -7889,7 +7889,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "csp_QnMp4",
@@ -7899,7 +7899,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "csp_MeijuTT",
@@ -7910,7 +7910,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.meijutt.net",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "csp_BLSGod",
@@ -7920,7 +7920,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "csp_Xunlei8",
@@ -7930,7 +7930,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "360_spider",
@@ -7940,7 +7940,7 @@
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "csp_JianPian",
@@ -7951,7 +7951,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "csp_Ikanbot",
@@ -7962,7 +7962,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://v.aikanbot.com",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "csp_Bili幼儿",
@@ -7972,8 +7972,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/biliext/%E5%B9%BC%E5%84%BF%E4%B9%90%E5%9B%AD.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "ext": "./ext/幼儿乐园.json",
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "csp_Bili少儿",
@@ -7983,8 +7983,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/biliext/%E5%B0%91%E5%84%BF%E6%95%99%E8%82%B2.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "ext": "./ext/少儿教育.json",
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "csp_Bili小学",
@@ -7994,8 +7994,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/biliext/%E5%B0%8F%E5%AD%A6%E8%AF%BE%E5%A0%82.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "ext": "./ext/小学课堂.json",
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "csp_Bili初中",
@@ -8005,8 +8005,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/biliext/%E5%88%9D%E4%B8%AD%E8%AF%BE%E5%A0%82.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "ext": "./ext/初中课堂.json",
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "csp_Bili高中",
@@ -8016,8 +8016,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/biliext/%E9%AB%98%E4%B8%AD%E8%AF%BE%E5%A0%82.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "ext": "./ext/高中课堂.json",
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "JS哔哩直播",
@@ -8027,8 +8027,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/%E5%93%94%E5%93%A9%E7%9B%B4%E6%92%AD.js",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "ext": "./ext/哔哩直播.js",
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "csp_XYQHiker_戏曲多多",
@@ -8038,8 +8038,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/%E6%88%8F%E6%9B%B2%E5%A4%9A%E5%A4%9A.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "ext": "./ext/戏曲多多.json",
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "csp_XYQHiker_兔小贝",
@@ -8049,8 +8049,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/%E5%85%94%E5%B0%8F%E8%B4%9D.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "ext": "./ext/兔小贝.json",
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "csp_XYQHiker_兔小贝2",
@@ -8060,8 +8060,8 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/%E5%85%94%E5%B0%8F%E8%B4%9D2.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "ext": "./ext/兔小贝2.json",
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "csp_XYQHiker_播视童趣",
@@ -8071,8 +8071,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/%E6%92%AD%E8%A7%86%E7%AB%A5%E8%B6%A3.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "ext": "./ext/播视童趣.json",
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "csp_XYQHiker_风铃动漫",
@@ -8082,8 +8082,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/%E9%A3%8E%E9%93%83%E5%8A%A8%E6%BC%AB.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "ext": "./ext/风铃动漫.json",
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "csp_XYQHiker_樱花动漫",
@@ -8093,8 +8093,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/%E6%A8%B1%E8%8A%B1%E5%8A%A8%E6%BC%AB.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "ext": "./ext/樱花动漫.json",
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "csp_XYQHiker_去看吧动漫",
@@ -8104,8 +8104,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/%E5%8E%BB%E7%9C%8B%E5%90%A7%E5%8A%A8%E6%BC%AB.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "ext": "./ext/去看吧动漫.json",
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "csp_XYQHiker_嗷呜动漫",
@@ -8115,8 +8115,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/%E5%97%B7%E5%91%9C%E5%8A%A8%E6%BC%AB.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "ext": "./ext/嗷呜动漫.json",
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "csp_XYQHiker_动漫巴士",
@@ -8126,8 +8126,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/%E5%8A%A8%E6%BC%AB%E5%B7%B4%E5%A3%AB.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "ext": "./ext/动漫巴士.json",
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "csp_XYQHiker_路漫漫",
@@ -8137,8 +8137,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/%E8%B7%AF%E6%BC%AB%E6%BC%AB.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "ext": "./ext/路漫漫.json",
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "csp_XYQHiker_番茶动漫",
@@ -8148,8 +8148,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/%E7%95%AA%E8%8C%B6%E5%8A%A8%E6%BC%AB.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "ext": "./ext/番茶动漫.json",
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "csp_XYQHiker_age动漫",
@@ -8159,8 +8159,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/age%E5%8A%A8%E6%BC%AB.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "ext": "./ext/age动漫.json",
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "csp_XYQHiker_短剧五五",
@@ -8170,8 +8170,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/%E7%9F%AD%E5%89%A7%E4%BA%94%E4%BA%94.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "ext": "./ext/短剧五五.json",
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "csp_XYQHiker_农民影视",
@@ -8181,8 +8181,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "ext": "./ext/农民影视.json",
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "csp_XYQHiker_骚火电影VIP",
@@ -8192,8 +8192,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1VIP.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "ext": "./ext/骚火电影VIP.json",
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "csp_XYQHiker_爱看电影",
@@ -8203,8 +8203,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/%E7%88%B1%E7%9C%8B%E7%94%B5%E5%BD%B1.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "ext": "./ext/爱看电影.json",
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "csp_XYQHiker_低端影视",
@@ -8214,8 +8214,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/%E4%BD%8E%E7%AB%AF%E5%BD%B1%E8%A7%86.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "ext": "./ext/低端影视.json",
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "csp_XYQHiker_看影网",
@@ -8225,8 +8225,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/%E7%9C%8B%E5%BD%B1%E7%BD%91.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "ext": "./ext/看影网.json",
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "csp_XYQHiker_好影快看",
@@ -8236,19 +8236,19 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/%E5%A5%BD%E5%BD%B1%E5%BF%AB%E7%9C%8B.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "ext": "./ext/好影快看.json",
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "drpy_js_金牌",
       "name": "金牌影视[js] [⚠]",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/%E9%87%91%E7%89%8C%E5%BD%B1%E8%A7%86.js",
+      "ext": "./ext/金牌影视.js",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "柚子资源",
@@ -8302,11 +8302,11 @@
       "name": "虎牙直播(JS) [⚠]",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD.js",
+      "ext": "./ext/虎牙直播.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "csp_XYQHiker_虎牙直播",
@@ -8316,8 +8316,8 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "ext": "./ext/虎牙直播.json",
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "csp_XYQHiker_斗鱼直播",
@@ -8327,8 +8327,8 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/%E6%96%97%E9%B1%BC%E7%9B%B4%E6%92%AD.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "ext": "./ext/斗鱼直播.json",
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "csp_Djuu",
@@ -8338,7 +8338,7 @@
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/eed040a6247f375adbff7ec181f8e0d6;md5;eed040a6247f375adbff7ec181f8e0d6"
+      "jar": "./jar/eed040a6247f375adbff7ec181f8e0d6.jar"
     },
     {
       "key": "APP商店",
@@ -13274,7 +13274,7 @@
       "name": "🔥电影┃先生 「茄子库」",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/0e071ca0584e0811",
+      "jar": "./jar/0e071ca0584e0811.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
