@@ -11571,7 +11571,7 @@
       "api": "csp_XBPQ",
       "timeout": 60,
       "ext": "./ext/夸克短剧.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/7a916b87c80f6bab",
+      "jar": "./jar/7a916b87c80f6bab.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -11583,7 +11583,7 @@
       "timeout": 60,
       "api": "csp_XBPQ",
       "ext": "./ext/短剧夸克.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/7a916b87c80f6bab",
+      "jar": "./jar/7a916b87c80f6bab.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -11594,7 +11594,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./ext/旺旺影视.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/7a916b87c80f6bab",
+      "jar": "./jar/7a916b87c80f6bab.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -11605,7 +11605,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./ext/韩剧看看.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/7a916b87c80f6bab",
+      "jar": "./jar/7a916b87c80f6bab.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -11616,7 +11616,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./ext/啊哈DJ网.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/7a916b87c80f6bab",
+      "jar": "./jar/7a916b87c80f6bab.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -11627,7 +11627,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "http://rihou.cc:88/xb/100%E5%90%AC%E4%B9%A6.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/7a916b87c80f6bab",
+      "jar": "./jar/7a916b87c80f6bab.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -13975,7 +13975,7 @@
       "changeable": 0,
       "api": "csp_Douban",
       "searchable": 0,
-      "jar": "./jar/84edf41db6dbaf56b1ccdc7a11cc0ddf.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/84edf41db6dbaf56b1ccdc7a11cc0ddf;md5;84edf41db6dbaf56b1ccdc7a11cc0ddf"
     },
     {
       "key": "88看球_2",
@@ -13992,7 +13992,7 @@
       "timeout": 12,
       "order_num": 0,
       "changeable": 0,
-      "jar": "./jar/84edf41db6dbaf56b1ccdc7a11cc0ddf.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/84edf41db6dbaf56b1ccdc7a11cc0ddf;md5;84edf41db6dbaf56b1ccdc7a11cc0ddf"
     },
     {
       "key": "葫芦",
@@ -14003,7 +14003,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/84edf41db6dbaf56b1ccdc7a11cc0ddf.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/84edf41db6dbaf56b1ccdc7a11cc0ddf;md5;84edf41db6dbaf56b1ccdc7a11cc0ddf"
     },
     {
       "key": "四叶草",
@@ -14014,7 +14014,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/84edf41db6dbaf56b1ccdc7a11cc0ddf.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/84edf41db6dbaf56b1ccdc7a11cc0ddf;md5;84edf41db6dbaf56b1ccdc7a11cc0ddf"
     },
     {
       "key": "猪猪",
@@ -14025,7 +14025,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/84edf41db6dbaf56b1ccdc7a11cc0ddf.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/84edf41db6dbaf56b1ccdc7a11cc0ddf;md5;84edf41db6dbaf56b1ccdc7a11cc0ddf"
     },
     {
       "key": "爱营",
@@ -14037,7 +14037,7 @@
       "ext": "./ext/q23.txt",
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/84edf41db6dbaf56b1ccdc7a11cc0ddf.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/84edf41db6dbaf56b1ccdc7a11cc0ddf;md5;84edf41db6dbaf56b1ccdc7a11cc0ddf"
     },
     {
       "key": "独播库",
@@ -14047,7 +14047,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/84edf41db6dbaf56b1ccdc7a11cc0ddf.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/84edf41db6dbaf56b1ccdc7a11cc0ddf;md5;84edf41db6dbaf56b1ccdc7a11cc0ddf"
     },
     {
       "key": "追番达人99",
@@ -14068,7 +14068,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/84edf41db6dbaf56b1ccdc7a11cc0ddf.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/84edf41db6dbaf56b1ccdc7a11cc0ddf;md5;84edf41db6dbaf56b1ccdc7a11cc0ddf"
     },
     {
       "key": "大师兄",
@@ -14123,7 +14123,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/84edf41db6dbaf56b1ccdc7a11cc0ddf.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/84edf41db6dbaf56b1ccdc7a11cc0ddf;md5;84edf41db6dbaf56b1ccdc7a11cc0ddf"
     },
     {
       "key": "csp_MiSou",
@@ -14134,7 +14134,7 @@
       "quickSearch": 0,
       "api": "csp_MiSou",
       "filterable": 1,
-      "jar": "./jar/84edf41db6dbaf56b1ccdc7a11cc0ddf.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/84edf41db6dbaf56b1ccdc7a11cc0ddf;md5;84edf41db6dbaf56b1ccdc7a11cc0ddf"
     },
     {
       "key": "csp_TingBook",
@@ -14144,7 +14144,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/84edf41db6dbaf56b1ccdc7a11cc0ddf.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/84edf41db6dbaf56b1ccdc7a11cc0ddf;md5;84edf41db6dbaf56b1ccdc7a11cc0ddf"
     },
     {
       "key": "豆",
