@@ -1282,7 +1282,7 @@
       "name": "📀┃光盘┃APP 「肥猫备用1」",
       "type": 3,
       "api": "csp_AppQi",
-      "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/600.txt|FTgP4Gq8zPiqbt7M",
+      "ext": "./ext/600.txt",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1571,7 +1571,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "ext": "./ext/兔小贝.js",
+      "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
       "filterable": 1,
       "jar": "./jar/e2693c58ebc58abecc7282b721db79ca.jar"
     },
@@ -11571,7 +11571,7 @@
       "api": "csp_XBPQ",
       "timeout": 60,
       "ext": "./ext/夸克短剧.json",
-      "jar": "./jar/7a916b87c80f6bab.jar",
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/7a916b87c80f6bab",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -11583,7 +11583,7 @@
       "timeout": 60,
       "api": "csp_XBPQ",
       "ext": "./ext/短剧夸克.json",
-      "jar": "./jar/7a916b87c80f6bab.jar",
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/7a916b87c80f6bab",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -11594,7 +11594,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./ext/旺旺影视.json",
-      "jar": "./jar/7a916b87c80f6bab.jar",
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/7a916b87c80f6bab",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -11605,7 +11605,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./ext/韩剧看看.json",
-      "jar": "./jar/7a916b87c80f6bab.jar",
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/7a916b87c80f6bab",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -11616,7 +11616,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./ext/啊哈DJ网.json",
-      "jar": "./jar/7a916b87c80f6bab.jar",
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/7a916b87c80f6bab",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -11627,7 +11627,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "http://rihou.cc:88/xb/100%E5%90%AC%E4%B9%A6.json",
-      "jar": "./jar/7a916b87c80f6bab.jar",
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/7a916b87c80f6bab",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -13390,7 +13390,7 @@
       "name": "🔥标清┃1080P 「茄子库」",
       "type": 3,
       "api": "csp_AppGet",
-      "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/601.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0",
+      "ext": "./ext/601.txt",
       "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/5c06b1be91fe59a6",
       "searchable": 1,
       "quickSearch": 1,
@@ -13999,7 +13999,7 @@
       "name": "🪽葫芦┃1080P 「快乐接口」",
       "type": 3,
       "api": "csp_AppGet",
-      "ext": "https://mobile-1251126973.cos.ap-guangzhou.myqcloud.com/maccos_config.txt|8R33VQSxzmCaHpEX|V122|okhttp/3.10.0",
+      "ext": "./ext/maccos_config.txt",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
