@@ -11571,7 +11571,7 @@
       "api": "csp_XBPQ",
       "timeout": 60,
       "ext": "http://rihou.cc:88/xb/%E5%A4%B8%E5%85%8B%E7%9F%AD%E5%89%A7.json",
-      "jar": "./jar/7a916b87c80f6bab.jar",
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/7a916b87c80f6bab",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -11583,7 +11583,7 @@
       "timeout": 60,
       "api": "csp_XBPQ",
       "ext": "http://rihou.cc:88/xb/%E7%9F%AD%E5%89%A7%E5%A4%B8%E5%85%8B.json",
-      "jar": "./jar/7a916b87c80f6bab.jar",
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/7a916b87c80f6bab",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -11594,7 +11594,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "http://rihou.cc:88/xb/%E6%97%BA%E6%97%BA%E5%BD%B1%E8%A7%86.json",
-      "jar": "./jar/7a916b87c80f6bab.jar",
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/7a916b87c80f6bab",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -11605,7 +11605,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "http://rihou.cc:88/xb/%E9%9F%A9%E5%89%A7%E7%9C%8B%E7%9C%8B.json",
-      "jar": "./jar/7a916b87c80f6bab.jar",
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/7a916b87c80f6bab",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -11616,7 +11616,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "http://rihou.cc:88/xb/%E5%95%8A%E5%93%88DJ%E7%BD%91.json",
-      "jar": "./jar/7a916b87c80f6bab.jar",
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/7a916b87c80f6bab",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -11627,7 +11627,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "http://rihou.cc:88/xb/100%E5%90%AC%E4%B9%A6.json",
-      "jar": "./jar/7a916b87c80f6bab.jar",
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/7a916b87c80f6bab",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -13999,7 +13999,7 @@
       "name": "🪽葫芦┃1080P 「快乐接口」",
       "type": 3,
       "api": "csp_AppGet",
-      "ext": "https://mobile-1251126973.cos.ap-guangzhou.myqcloud.com/maccos_config.txt|8R33VQSxzmCaHpEX|V122|okhttp/3.10.0",
+      "ext": "./ext/maccos_config.txt",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
