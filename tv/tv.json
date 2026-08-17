@@ -1571,7 +1571,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+      "ext": "./ext/兔小贝.js",
       "filterable": 1,
       "jar": "./jar/e2693c58ebc58abecc7282b721db79ca.jar"
     },
@@ -1659,7 +1659,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt",
+      "ext": "./ext/20260414181247-ae51abfbfe.txt",
       "jar": "./jar/e11dfad1c324e310e688c0845f9a06b8.jar"
     },
     {
@@ -1670,7 +1670,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt",
+      "ext": "./ext/20260414181247-ae51abfbfe.txt",
       "jar": "./jar/e11dfad1c324e310e688c0845f9a06b8.jar"
     },
     {
@@ -1681,7 +1681,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt",
+      "ext": "./ext/20260414181247-ae51abfbfe.txt",
       "jar": "./jar/e11dfad1c324e310e688c0845f9a06b8.jar"
     },
     {
@@ -6857,7 +6857,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://d.kstore.dev/download/15352/ext/saohuo.json",
-      "jar": "./jar/d845e3ed6f455605.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/d845e3ed6f455605"
     },
     {
       "key": "视频采集3",
@@ -6989,7 +6989,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://d.kstore.dev/download/15352/ext/dashixong.json",
-      "jar": "./jar/d845e3ed6f455605.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/d845e3ed6f455605"
     },
     {
       "key": "csp_xpath_555",
@@ -7000,7 +7000,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://d.kstore.dev/download/15352/ext/555.json",
-      "jar": "./jar/d845e3ed6f455605.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/d845e3ed6f455605"
     },
     {
       "key": "csp_xpath_海兔",
@@ -7011,7 +7011,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://d.kstore.dev/download/15352/ext/haitu.json",
-      "jar": "./jar/d845e3ed6f455605.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/d845e3ed6f455605"
     },
     {
       "key": "csp_xpath_飞兔",
@@ -7022,7 +7022,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://d.kstore.dev/download/15352/ext/feitu.json",
-      "jar": "./jar/d845e3ed6f455605.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/d845e3ed6f455605"
     },
     {
       "key": "csp_xpath_飞兔成人",
@@ -7033,7 +7033,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://d.kstore.dev/download/15352/ext/feitucr.json",
-      "jar": "./jar/d845e3ed6f455605.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/d845e3ed6f455605"
     },
     {
       "key": "本地",
@@ -7044,7 +7044,7 @@
       "changeable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/d845e3ed6f455605.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/d845e3ed6f455605"
     },
     {
       "key": "IKUN资源",
@@ -7225,7 +7225,7 @@
       "ext": "https://d.kstore.dev/download/15352/ext/%E8%8D%90%E7%89%87.js",
       "timeout": 30,
       "filterable": 1,
-      "jar": "./jar/d845e3ed6f455605.jar"
+      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/d845e3ed6f455605"
     },
     {
       "key": "csp_短剧网",
