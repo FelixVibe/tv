@@ -6857,7 +6857,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://d.kstore.dev/download/15352/ext/saohuo.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/d845e3ed6f455605"
+      "jar": "./jar/d845e3ed6f455605.jar"
     },
     {
       "key": "视频采集3",
@@ -6989,7 +6989,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://d.kstore.dev/download/15352/ext/dashixong.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/d845e3ed6f455605"
+      "jar": "./jar/d845e3ed6f455605.jar"
     },
     {
       "key": "csp_xpath_555",
@@ -7000,7 +7000,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://d.kstore.dev/download/15352/ext/555.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/d845e3ed6f455605"
+      "jar": "./jar/d845e3ed6f455605.jar"
     },
     {
       "key": "csp_xpath_海兔",
@@ -7011,7 +7011,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://d.kstore.dev/download/15352/ext/haitu.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/d845e3ed6f455605"
+      "jar": "./jar/d845e3ed6f455605.jar"
     },
     {
       "key": "csp_xpath_飞兔",
@@ -7022,7 +7022,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://d.kstore.dev/download/15352/ext/feitu.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/d845e3ed6f455605"
+      "jar": "./jar/d845e3ed6f455605.jar"
     },
     {
       "key": "csp_xpath_飞兔成人",
@@ -7033,7 +7033,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://d.kstore.dev/download/15352/ext/feitucr.json",
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/d845e3ed6f455605"
+      "jar": "./jar/d845e3ed6f455605.jar"
     },
     {
       "key": "本地",
@@ -7044,7 +7044,7 @@
       "changeable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/d845e3ed6f455605"
+      "jar": "./jar/d845e3ed6f455605.jar"
     },
     {
       "key": "IKUN资源",
@@ -7225,7 +7225,7 @@
       "ext": "https://d.kstore.dev/download/15352/ext/%E8%8D%90%E7%89%87.js",
       "timeout": 30,
       "filterable": 1,
-      "jar": "https://tvbox-source-aggregator.1069076193.workers.dev/jar/d845e3ed6f455605"
+      "jar": "./jar/d845e3ed6f455605.jar"
     },
     {
       "key": "csp_短剧网",
