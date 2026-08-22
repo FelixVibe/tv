@@ -9353,7 +9353,7 @@
       "name": "🚛┃搜狗(官) [⚠]",
       "type": 3,
       "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
-      "ext": "https://raw.liucn.cc/box/libs/js/caigou.js",
+      "ext": "./ext/caigou.js",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
