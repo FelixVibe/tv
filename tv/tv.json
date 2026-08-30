@@ -1571,7 +1571,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+      "ext": "./ext/兔小贝.js",
       "filterable": 1,
       "jar": "./jar/e2693c58ebc58abecc7282b721db79ca.jar"
     },
@@ -11570,7 +11570,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "timeout": 60,
-      "ext": "./ext/夸克短剧.json",
+      "ext": "http://rihou.cc:88/xb/%E5%A4%B8%E5%85%8B%E7%9F%AD%E5%89%A7.json",
       "jar": "./jar/7a916b87c80f6bab.jar",
       "searchable": 1,
       "quickSearch": 1,
@@ -11582,7 +11582,7 @@
       "type": 3,
       "timeout": 60,
       "api": "csp_XBPQ",
-      "ext": "./ext/短剧夸克.json",
+      "ext": "http://rihou.cc:88/xb/%E7%9F%AD%E5%89%A7%E5%A4%B8%E5%85%8B.json",
       "jar": "./jar/7a916b87c80f6bab.jar",
       "searchable": 1,
       "quickSearch": 1,
