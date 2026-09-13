@@ -1571,7 +1571,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+      "ext": "./ext/兔小贝.js",
       "filterable": 1,
       "jar": "./jar/e2693c58ebc58abecc7282b721db79ca.jar"
     },
@@ -10754,7 +10754,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "jar": "./jar/be1f1d548d0c559a.jar",
-      "ext": "./ext/中医.json"
+      "ext": "https://raw.liucn.cc/box/libs/hccx/%E4%B8%AD%E5%8C%BB.json"
     },
     {
       "key": "csp_Bili_xuqu1",
