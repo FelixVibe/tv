@@ -1,0 +1,597 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title></title>
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style type="text/css">a,img{outline:0}*{margin:0;padding:0}ol,ul{list-style:none}img{border:none}a{text-decoration:none;cursor:pointer}.cf:after,.cf:before{content:" ";display:table}.cf:after{clear:both}body{-webkit-text-size-adjust:none;-moz-text-size-adjust:none;-ms-text-size-adjust:none;-o-text-size-adjust:none;text-size-adjust:none}</style>
+<script language="JavaScript" type="text/javascript" src=""></script>
+<style type="text/css">
+
+
+
+.ios_fix{width: 1px; min-width: 100%; *width: 100%;}
+.wrapper{position: relative;}
+
+html{background:#10162c;}
+
+.heading{visibility: hidden; background-color: #10162c; word-wrap: break-word;text-align: center;font-size: 30px;color: #fff;font-family: Montserrat-bold,arial,sans-serif; , Arial, sans-serif;font-weight: bold;
+padding-top:60px;padding-bottom:20px;
+}
+
+.footer{text-align:center;font-family: arial,sans-serif;padding: 20px 10px;background-color: #10162c;width: 220px;margin: 0 auto;}
+.footer-links a{display: inline-block;line-height:20px;  color: #4d5673 ;font-family: Arial, sans-serif;text-decoration: none;font-size: 12px;}
+
+/* html,body,.ios_fix,.wrapper,.list_wrapper {height: 100%;} */
+
+</style>
+<style>
+  body{display: flex; flex-direction: column;}
+  .outer-wrap{ flex: 1 0 auto; }
+
+  .htmlprv_content_wrapper{}
+  .htmlprv_content_wrapper div{height: auto !important;}
+  .htmlprv_content_wrapper iframe{height: 750px !important;}
+</style>
+<script>
+  if (!"gdprAppliesGlobally" in window) {
+    window.gdprAppliesGlobally = true
+  }
+  if (!("cmp_id" in window) || window.cmp_id < 1) {
+    window.cmp_id = 0
+  }
+  if (!("cmp_cdid" in window)) {
+    window.cmp_cdid = "40679ccc92462"
+  }
+  if (!("cmp_params" in window)) {
+    window.cmp_params = ""
+  }
+  if (!("cmp_host" in window)) {
+    window.cmp_host = "d.delivery.consentmanager.net"
+  }
+  if (!("cmp_cdn" in window)) {
+    window.cmp_cdn = "cdn.consentmanager.net"
+  }
+  if (!("cmp_proto" in window)) {
+    window.cmp_proto = "https:"
+  }
+  if (!("cmp_codesrc" in window)) {
+    window.cmp_codesrc = "1"
+  }
+  window.cmp_getsupportedLangs = function() {
+    var b = ["DE", "EN", "FR", "IT", "NO", "DA", "FI", "ES", "PT", "RO", "BG", "ET", "EL", "GA", "HR", "LV", "LT", "MT", "NL", "PL", "SV", "SK", "SL", "CS", "HU", "RU", "SR", "ZH", "TR", "UK", "AR", "BS"];
+    if ("cmp_customlanguages" in window) {
+      for (var a = 0; a < window.cmp_customlanguages.length; a++) {
+        b.push(window.cmp_customlanguages[a].l.toUpperCase())
+      }
+    }
+    return b
+  };
+  window.cmp_getRTLLangs = function() {
+    var a = ["AR"];
+    if ("cmp_customlanguages" in window) {
+      for (var b = 0; b < window.cmp_customlanguages.length; b++) {
+        if ("r" in window.cmp_customlanguages[b] && window.cmp_customlanguages[b].r) {
+          a.push(window.cmp_customlanguages[b].l)
+        }
+      }
+    }
+    return a
+  };
+  window.cmp_getlang = function(j) {
+    if (typeof(j) != "boolean") {
+      j = true
+    }
+    if (j && typeof(cmp_getlang.usedlang) == "string" && cmp_getlang.usedlang !== "") {
+      return cmp_getlang.usedlang
+    }
+    var g = window.cmp_getsupportedLangs();
+    var c = [];
+    var f = location.hash;
+    var e = location.search;
+    var a = "languages" in navigator ? navigator.languages : [];
+    if (f.indexOf("cmplang=") != -1) {
+      c.push(f.substr(f.indexOf("cmplang=") + 8, 2).toUpperCase())
+    } else {
+      if (e.indexOf("cmplang=") != -1) {
+        c.push(e.substr(e.indexOf("cmplang=") + 8, 2).toUpperCase())
+      } else {
+        if ("cmp_setlang" in window && window.cmp_setlang != "") {
+          c.push(window.cmp_setlang.toUpperCase())
+        } else {
+          if (a.length > 0) {
+            for (var d = 0; d < a.length; d++) {
+              c.push(a[d])
+            }
+          }
+        }
+      }
+    }
+    if ("language" in navigator) {
+      c.push(navigator.language)
+    }
+    if ("userLanguage" in navigator) {
+      c.push(navigator.userLanguage)
+    }
+    var h = "";
+    for (var d = 0; d < c.length; d++) {
+      var b = c[d].toUpperCase();
+      if (g.indexOf(b) != -1) {
+        h = b;
+        break
+      }
+      if (b.indexOf("-") != -1) {
+        b = b.substr(0, 2)
+      }
+      if (g.indexOf(b) != -1) {
+        h = b;
+        break
+      }
+    }
+    if (h == "" && typeof(cmp_getlang.defaultlang) == "string" && cmp_getlang.defaultlang !== "") {
+      return cmp_getlang.defaultlang
+    } else {
+      if (h == "") {
+        h = "EN"
+      }
+    }
+    h = h.toUpperCase();
+    return h
+  };
+  (function() {
+    var u = document;
+    var v = u.getElementsByTagName;
+    var h = window;
+    var o = "";
+    var b = "_en";
+    if ("cmp_getlang" in h) {
+      o = h.cmp_getlang().toLowerCase();
+      if ("cmp_customlanguages" in h) {
+        for (var q = 0; q < h.cmp_customlanguages.length; q++) {
+          if (h.cmp_customlanguages[q].l.toUpperCase() == o.toUpperCase()) {
+            o = "en";
+            break
+          }
+        }
+      }
+      b = "_" + o
+    }
+
+    function x(i, e) {
+      var w = "";
+      i += "=";
+      var s = i.length;
+      var d = location;
+      if (d.hash.indexOf(i) != -1) {
+        w = d.hash.substr(d.hash.indexOf(i) + s, 9999)
+      } else {
+        if (d.search.indexOf(i) != -1) {
+          w = d.search.substr(d.search.indexOf(i) + s, 9999)
+        } else {
+          return e
+        }
+      }
+      if (w.indexOf("&") != -1) {
+        w = w.substr(0, w.indexOf("&"))
+      }
+      return w
+    }
+    var k = ("cmp_proto" in h) ? h.cmp_proto : "https:";
+    if (k != "http:" && k != "https:") {
+      k = "https:"
+    }
+    var g = ("cmp_ref" in h) ? h.cmp_ref : location.href;
+    var j = u.createElement("script");
+    j.setAttribute("data-cmp-ab", "1");
+    var c = x("cmpdesign", "cmp_design" in h ? h.cmp_design : "");
+    var f = x("cmpregulationkey", "cmp_regulationkey" in h ? h.cmp_regulationkey : "");
+    var r = x("cmpgppkey", "cmp_gppkey" in h ? h.cmp_gppkey : "");
+    var n = x("cmpatt", "cmp_att" in h ? h.cmp_att : "");
+    j.src = k + "//" + h.cmp_host + "/delivery/cmp.php?" + ("cmp_id" in h && h.cmp_id > 0 ? "id=" + h.cmp_id : "") + ("cmp_cdid" in h ? "&cdid=" + h.cmp_cdid : "") + "&h=" + encodeURIComponent(g) + (c != "" ? "&cmpdesign=" + encodeURIComponent(c) : "") + (f != "" ? "&cmpregulationkey=" + encodeURIComponent(f) : "") + (r != "" ? "&cmpgppkey=" + encodeURIComponent(r) : "") + (n != "" ? "&cmpatt=" + encodeURIComponent(n) : "") + ("cmp_params" in h ? "&" + h.cmp_params : "") + (u.cookie.length > 0 ? "&__cmpfcc=1" : "") + "&l=" + o.toLowerCase() + "&o=" + (new Date()).getTime();
+    j.type = "text/javascript";
+    j.async = true;
+    if (u.currentScript && u.currentScript.parentElement) {
+      u.currentScript.parentElement.appendChild(j)
+    } else {
+      if (u.body) {
+        u.body.appendChild(j)
+      } else {
+        var t = v("body");
+        if (t.length == 0) {
+          t = v("div")
+        }
+        if (t.length == 0) {
+          t = v("span")
+        }
+        if (t.length == 0) {
+          t = v("ins")
+        }
+        if (t.length == 0) {
+          t = v("script")
+        }
+        if (t.length == 0) {
+          t = v("head")
+        }
+        if (t.length > 0) {
+          t[0].appendChild(j)
+        }
+      }
+    }
+    var m = "js";
+    var p = x("cmpdebugunminimized", "cmpdebugunminimized" in h ? h.cmpdebugunminimized : 0) > 0 ? "" : ".min";
+    var a = x("cmpdebugcoverage", "cmp_debugcoverage" in h ? h.cmp_debugcoverage : "");
+    if (a == "1") {
+      m = "instrumented";
+      p = ""
+    }
+    var j = u.createElement("script");
+    j.src = k + "//" + h.cmp_cdn + "/delivery/" + m + "/cmp" + b + p + ".js";
+    j.type = "text/javascript";
+    j.setAttribute("data-cmp-ab", "1");
+    j.async = true;
+    if (u.currentScript && u.currentScript.parentElement) {
+      u.currentScript.parentElement.appendChild(j)
+    } else {
+      if (u.body) {
+        u.body.appendChild(j)
+      } else {
+        var t = v("body");
+        if (t.length == 0) {
+          t = v("div")
+        }
+        if (t.length == 0) {
+          t = v("span")
+        }
+        if (t.length == 0) {
+          t = v("ins")
+        }
+        if (t.length == 0) {
+          t = v("script")
+        }
+        if (t.length == 0) {
+          t = v("head")
+        }
+        if (t.length > 0) {
+          t[0].appendChild(j)
+        }
+      }
+    }
+  })();
+  window.cmp_addFrame = function(b) {
+    if (!window.frames[b]) {
+      if (document.body) {
+        var a = document.createElement("iframe");
+        a.style.cssText = "display:none";
+        if ("cmp_cdn" in window && "cmp_ultrablocking" in window && window.cmp_ultrablocking > 0) {
+          a.src = "//" + window.cmp_cdn + "/delivery/empty.html"
+        }
+        a.name = b;
+        a.setAttribute("title", "Intentionally hidden, please ignore");
+        a.setAttribute("role", "none");
+        a.setAttribute("tabindex", "-1");
+        document.body.appendChild(a)
+      } else {
+        window.setTimeout(window.cmp_addFrame, 10, b)
+      }
+    }
+  };
+  window.cmp_rc = function(h) {
+    var b = document.cookie;
+    var f = "";
+    var d = 0;
+    while (b != "" && d < 100) {
+      d++;
+      while (b.substr(0, 1) == " ") {
+        b = b.substr(1, b.length)
+      }
+      var g = b.substring(0, b.indexOf("="));
+      if (b.indexOf(";") != -1) {
+        var c = b.substring(b.indexOf("=") + 1, b.indexOf(";"))
+      } else {
+        var c = b.substr(b.indexOf("=") + 1, b.length)
+      }
+      if (h == g) {
+        f = c
+      }
+      var e = b.indexOf(";") + 1;
+      if (e == 0) {
+        e = b.length
+      }
+      b = b.substring(e, b.length)
+    }
+    return (f)
+  };
+  window.cmp_stub = function() {
+    var a = arguments;
+    __cmp.a = __cmp.a || [];
+    if (!a.length) {
+      return __cmp.a
+    } else {
+      if (a[0] === "ping") {
+        if (a[1] === 2) {
+          a[2]({
+            gdprApplies: gdprAppliesGlobally,
+            cmpLoaded: false,
+            cmpStatus: "stub",
+            displayStatus: "hidden",
+            apiVersion: "2.2",
+            cmpId: 31
+          }, true)
+        } else {
+          a[2](false, true)
+        }
+      } else {
+        if (a[0] === "getUSPData") {
+          a[2]({
+            version: 1,
+            uspString: window.cmp_rc("")
+          }, true)
+        } else {
+          if (a[0] === "getTCData") {
+            __cmp.a.push([].slice.apply(a))
+          } else {
+            if (a[0] === "addEventListener" || a[0] === "removeEventListener") {
+              __cmp.a.push([].slice.apply(a))
+            } else {
+              if (a.length == 4 && a[3] === false) {
+                a[2]({}, false)
+              } else {
+                __cmp.a.push([].slice.apply(a))
+              }
+            }
+          }
+        }
+      }
+    }
+  };
+  window.cmp_gpp_ping = function() {
+    return {
+      gppVersion: "1.0",
+      cmpStatus: "stub",
+      cmpDisplayStatus: "hidden",
+      supportedAPIs: ["tcfca", "usnat", "usca", "usva", "usco", "usut", "usct"],
+      cmpId: 31
+    }
+  };
+  window.cmp_gppstub = function() {
+    var a = arguments;
+    __gpp.q = __gpp.q || [];
+    if (!a.length) {
+      return __gpp.q
+    }
+    var g = a[0];
+    var f = a.length > 1 ? a[1] : null;
+    var e = a.length > 2 ? a[2] : null;
+    if (g === "ping") {
+      return window.cmp_gpp_ping()
+    } else {
+      if (g === "addEventListener") {
+        __gpp.e = __gpp.e || [];
+        if (!("lastId" in __gpp)) {
+          __gpp.lastId = 0
+        }
+        __gpp.lastId++;
+        var c = __gpp.lastId;
+        __gpp.e.push({
+          id: c,
+          callback: f
+        });
+        return {
+          eventName: "listenerRegistered",
+          listenerId: c,
+          data: true,
+          pingData: window.cmp_gpp_ping()
+        }
+      } else {
+        if (g === "removeEventListener") {
+          var h = false;
+          __gpp.e = __gpp.e || [];
+          for (var d = 0; d < __gpp.e.length; d++) {
+            if (__gpp.e[d].id == e) {
+              __gpp.e[d].splice(d, 1);
+              h = true;
+              break
+            }
+          }
+          return {
+            eventName: "listenerRemoved",
+            listenerId: e,
+            data: h,
+            pingData: window.cmp_gpp_ping()
+          }
+        } else {
+          if (g === "getGPPData") {
+            return {
+              sectionId: 3,
+              gppVersion: 1,
+              sectionList: [],
+              applicableSections: [0],
+              gppString: "",
+              pingData: window.cmp_gpp_ping()
+            }
+          } else {
+            if (g === "hasSection" || g === "getSection" || g === "getField") {
+              return null
+            } else {
+              __gpp.q.push([].slice.apply(a))
+            }
+          }
+        }
+      }
+    }
+  };
+  window.cmp_msghandler = function(d) {
+    var a = typeof d.data === "string";
+    try {
+      var c = a ? JSON.parse(d.data) : d.data
+    } catch (f) {
+      var c = null
+    }
+    if (typeof(c) === "object" && c !== null && "__cmpCall" in c) {
+      var b = c.__cmpCall;
+      window.__cmp(b.command, b.parameter, function(h, g) {
+        var e = {
+          __cmpReturn: {
+            returnValue: h,
+            success: g,
+            callId: b.callId
+          }
+        };
+        d.source.postMessage(a ? JSON.stringify(e) : e, "*")
+      })
+    }
+    if (typeof(c) === "object" && c !== null && "__uspapiCall" in c) {
+      var b = c.__uspapiCall;
+      window.__uspapi(b.command, b.version, function(h, g) {
+        var e = {
+          __uspapiReturn: {
+            returnValue: h,
+            success: g,
+            callId: b.callId
+          }
+        };
+        d.source.postMessage(a ? JSON.stringify(e) : e, "*")
+      })
+    }
+    if (typeof(c) === "object" && c !== null && "__tcfapiCall" in c) {
+      var b = c.__tcfapiCall;
+      window.__tcfapi(b.command, b.version, function(h, g) {
+        var e = {
+          __tcfapiReturn: {
+            returnValue: h,
+            success: g,
+            callId: b.callId
+          }
+        };
+        d.source.postMessage(a ? JSON.stringify(e) : e, "*")
+      }, b.parameter)
+    }
+    if (typeof(c) === "object" && c !== null && "__gppCall" in c) {
+      var b = c.__gppCall;
+      window.__gpp(b.command, function(h, g) {
+        var e = {
+          __gppReturn: {
+            returnValue: h,
+            success: g,
+            callId: b.callId
+          }
+        };
+        d.source.postMessage(a ? JSON.stringify(e) : e, "*")
+      }, "parameter" in b ? b.parameter : null, "version" in b ? b.version : 1)
+    }
+  };
+  window.cmp_setStub = function(a) {
+    if (!(a in window) || (typeof(window[a]) !== "function" && typeof(window[a]) !== "object" && (typeof(window[a]) === "undefined" || window[a] !== null))) {
+      window[a] = window.cmp_stub;
+      window[a].msgHandler = window.cmp_msghandler;
+      window.addEventListener("message", window.cmp_msghandler, false)
+    }
+  };
+  window.cmp_setGppStub = function(a) {
+    if (!(a in window) || (typeof(window[a]) !== "function" && typeof(window[a]) !== "object" && (typeof(window[a]) === "undefined" || window[a] !== null))) {
+      window[a] = window.cmp_gppstub;
+      window[a].msgHandler = window.cmp_msghandler;
+      window.addEventListener("message", window.cmp_msghandler, false)
+    }
+  };
+  window.cmp_addFrame("__cmpLocator");
+  if (!("cmp_disableusp" in window) || !window.cmp_disableusp) {
+    window.cmp_addFrame("__uspapiLocator")
+  }
+  if (!("cmp_disabletcf" in window) || !window.cmp_disabletcf) {
+    window.cmp_addFrame("__tcfapiLocator")
+  }
+  if (!("cmp_disablegpp" in window) || !window.cmp_disablegpp) {
+    window.cmp_addFrame("__gppLocator")
+  }
+  window.cmp_setStub("__cmp");
+  if (!("cmp_disabletcf" in window) || !window.cmp_disabletcf) {
+    window.cmp_setStub("__tcfapi")
+  }
+  if (!("cmp_disableusp" in window) || !window.cmp_disableusp) {
+    window.cmp_setStub("__uspapi")
+  }
+  if (!("cmp_disablegpp" in window) || !window.cmp_disablegpp) {
+    window.cmp_setGppStub("__gpp")
+  };
+</script><script id="fonts-onload-Montserrat-bold">window.addEventListener('load', function() {if(document.getElementById(`Montserrat-bold`)){return;}const style = document.createElement('style');style.id = `Montserrat-bold`;const css = `
+@font-face {font-family: "Montserrat-bold";
+src: url("https://s.cdn-fileserver.com/__media__/fonts/Montserrat-bold/Montserrat-bold.eot");
+src: url("https://s.cdn-fileserver.com/__media__/fonts/Montserrat-bold/Montserrat-bold.woff2") format("woff2"),
+url("https://s.cdn-fileserver.com/__media__/fonts/Montserrat-bold/Montserrat-bold.eot?#iefix") format("embedded-opentype"),
+url("https://s.cdn-fileserver.com/__media__/fonts/Montserrat-bold/Montserrat-bold.woff") format("woff"),
+url("https://s.cdn-fileserver.com/__media__/fonts/Montserrat-bold/Montserrat-bold.ttf") format("truetype"),
+url("https://s.cdn-fileserver.com/__media__/fonts/Montserrat-bold/Montserrat-bold.svg#Montserrat-bold") format("svg");
+font-weight: normal;font-style: normal;font-display: swap;}`;style.appendChild(document.createTextNode(css));document.head.appendChild(style);})</script></head>
+<body >
+
+<div class="outer-wrap">
+<div class="wrapper">
+    <div class="heading"></div>
+
+    <div class="htmlprv_content_wrapper">
+      <html>
+<head ><style>*{margin: 0; padding: 0;}</style><meta  name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" content=""></head>
+<body ><img src="https://l.cdn-fileserver.com/bping.php?vgd_tsce=L1375&vgd_oreqf=one&vgd_oresf=one&vgd_wlstp=0&cid=8CU7G8B38&sc=IA&vgd_asn=8075&vgd_rpth=%2Fola&vgd_l2type=dmola&vgd_setup=c21&prid=8PR11258V&crid=342704488&hvsid=00001791402024656021896732169057&ugd=0&lf=6&requrl=https%3A%2F%2Fgh-proxy.net&ssld=%7B%22QQNN%22%3A%22Pb%22%2C%22QQN75%22%3A%22OJQnYm8zJQ%22%2C%22QQ8E%22%3A%22%22%2C%22QQQN%22%3A%22VK%22%2C%22QQl8E%22%3A%22%22%7D&mspa=1&vi=1791402024393285396&cc=US&lper=100&wsip=170762820&vgd_bid=452144&gdpr=0&vgd_cage=6&vgd_cdv=O3746&wshp=0&r=1791402024657&vgd_len=572&vgd_end=1" width="0px" height="0px" style="display: none !important" id="_ol_lg_1791402024393285396" /><div id="_ol_one_1791402024393285396" > </div><script type="text/javascript">!function(){"use strict";var d,i={"id":"_ol_one_1791402024393285396","l2u":"https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%28Xy=m\u0026%28h%295u%2A=m\u0026%29Vy=.gP40Hk%21r\u0026%2Ah=\u0026-%29d%29=\u0026-DuoQQo5C%29=\u0026-yh%29Y=\u00263Vy=2nZ22Z.yb.W2rb26%2AZb_q5lbyZ2_qn.Zm__5\u00263dW%2A=3u5\u00265QYVy=\u0026D5=m\u0026DVy=2n6Z22\u0026DVyc6=2n6Z22\u0026DW5=\u0026DyYRy=\u0026Eh%29W=Z\u0026GLL%29h=Z\u0026JDVy=\u0026LhQ5=pZrln\u0026QGuE6=3hc2oVuLQ\u0026QGuEr=ZgP.OrklP\u0026QL%29Vy=\u0026QQ=0j\u0026QVy=.B0lO.9r.\u0026QYVy=r26lm22..\u0026Qyc=Prl2q\u0026VhVy=m\u0026VuLQd=.fwJHlnwI%3AP.pItl%7Cb5.w%3A%2A_zNV%28N%28V7N%28Se%7Cbt.w%3A%28F_N%28F%28N%28VeN_%7CPf.w%3A%28F_N%28F%28N%28VeN%28FG\u0026W%29B%28=\u0026WD%2Ad~Vy=c6\u0026WQL=g9RY%2AutXtWY%2F%28rr%2FC9Xr2F5s%28%2Fs%28%2ACr5%28%28%28\u0026Wy3EWVu=\u0026WyL6=\u0026WyLZ=\u0026Wyc=\u0026Xy%29Y=m\u0026Xy%29YQuhL=\u0026Y5a%28Yd=GLL%29h%3A%2F%2FXGb%29Y3C-Nu5L\u0026cV=Zl_Z2m6m62r_r6.nr_q\u0026d6L-%295=yE3dW\u0026hDyYRy=\u0026hQ=RF\u0026hVs5=ZZn2Cq._\u0026hhdy=%7B%22hhQQ%22%3A%220j%22%2C%22hhQL-%22%3A%22y5h+E3Vu5h%22%2C%22hhV%29%22%3A%22%22%2C%22hhhQ%22%3A%22RF%22%2C%22hhsV%29%22%3A%22%22%7D\u0026htmlsrc=1\u0026kkdd=u%7Cu%7CH9%2AAn3\u0026tpid=\u0026uE5YY=Z\u0026uLc=\u0026xy=\u0026x~Y%2A=\u0026y5QEEE=\u0026yEL%29Vy=__mmq26lq\u0026yEY%2A=Z\u0026~dhL%29=m\u0026~hG%29=m","l2h":"acl=\u0026aclp=\u0026cl=\u0026clp=\u0026hvsid=00001791402024656021896732169057\u0026l2type=dmola\u0026lp=%7B%22ppvi%22%3A%222153894762464913629%22%2C%22wlstp%22%3A%220%22%7D\u0026matchstring=\u0026pvl=%7B%22nmerr%22%3A%221%22%7D\u0026pvlp=\u0026sbdrId=\u0026verid=","vgh":"vgd_sc=IA\u0026vgd_cmp_inj_fl=false","so":{"bid":"452144","l2host":"https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%21%21al=%7B%22%21%21rr%22%3A%22i2%22%2C%22%21%21rQ6%22%3A%22lj%21+1xvEj%21%22%2C%22%21%21vY%22%3A%22%22%2C%22%21%21%21r%22%3A%22W-%22%2C%22%21%21RvY%22%3A%22%22%7D\u0026%217lLWl=\u0026%21r=W-\u0026%21vRj=uuMp5F%2A_\u0026%28%21DY=U\u0026%28a%21QY=U\u0026%29v=uq_upUAUApt_tA%2AMt_F\u00261%21YB=u\u002667Ekrrkj5Y=\u00266YaY=\u00266l%21YL=\u00267Bj=\u00267j=U\u00267lLWl=\u00267vl=pMAupp\u00267vl%29A=pMAupp\u0026B7Sa%28vl=%29A\u0026BY~c=\u0026Bl%29=\u0026BlQA=\u0026BlQu=\u0026Blx1BvE=\u0026BrQ=zCWLSEdsdBL%2Fctt%2F5Cstp-jRc%2FRcS5tjccc\u0026DQQY%21=u\u0026E1jLL=u\u0026EQ%29=\u0026K7vl=\u0026LjocLa=DQQY%21%3A%2F%2FsDXYLx56bEjQ\u0026Q%21rj=OutqM\u0026S%21=\u0026Yvl=%2AzPIiTHwt\u0026aAQ6Yj=l1xaB\u0026c%21YjES=U\u0026csl=U\u0026e%28LS=\u0026el=\u0026htmlsrc=1\u0026jrLvl=\u0026kkdd=nH%7C3%7C9%2AAHn\u0026l1LS=u\u0026l1QYvl=__UUFpAqF\u0026ljr111=\u0026rDE1A=x%21%29pkvEQr\u0026rDE1t=uzP%2AhtHqP\u0026rLvl=tpAqUpp%2A%2A\u0026rQYvl=\u0026rl%29=PtqpF\u0026rr=i2\u0026rvl=%2A~iqh%2ACt%2A\u0026slYL=U\u0026slYLrE%21Q=\u0026tpid=\u0026v%21vl=U\u0026vEQra=%2Ag3KTqM3G%3AP%2AOGdq%7CXj%2A3%3AS_mbvcbcv9bc8V%7CXd%2A3%3Ac-_bc-cbcvVb_%7CPg%2A3%3Ac-_bc-cbcvVbc-D\u0026xaBS=xEj\u0026xvl=pMuppu%2AlX%2ABptXpASuX_FjqXlup_FM%2AuU__j","be":"0","nmerr":"1"},"w":"100%","h":"100%","scr":"yes","ek":"cut2FAC698y RjrwgLUqsSo71/J53V~4lPWe-0_nfBXaKTbizdvkZ|DpGMNIYHxO=QhEm","es":11,"m":{"alc":[{"ht":"https://l.cdn-fileserver.com","pt":"log","tp":"CM"},{"ht":"https://gh-proxy.net","pt":"sk-lgprxfwd.php","tp":"DM"}],"vi":"1791402024393285396","cid":"8CU7G8B38","crid":"342704488","rl":"https://gh-proxy.net","mprpslog":"76TRvM47JREXQh6WIYrlcVaTQxUlCPJGV4JPmdog0fSWeWEKpUrqmkrKbZUWzoDd-r-1glIqzWPg8h42LFdBfe6NLAh-qkrXEQgTAS2ge1e5KaziqkSX0QN0OiQstiXJAifva5RGa0hrZIz16ql_mupdJhIFhjTpsjG8TJktywCeko6IVQj75lgoQdVjh3wNbk0BcjcUd4w%3D"}};(d=document.createElement("div")).className=["adclass","googleAdSense","MediumRectangleAdPanel","adv_left","browse-banner_ad","sponsored"].join(" "),d.id="abp_px",d.style.cssText="opacity: 0; visibility: hidden; width: 0; height: 0; position: absolute; top: -9999px; left: -9999px;",document.body.appendChild(d),window.setTimeout(function(){var e,t="none"===(e="display",(t=d).style[e]||(t.currentStyle?t.currentStyle[e]:document.defaultView&&document.defaultView.getComputedStyle?(e=(e=e.replace(/([A-Z])/g,"-$1")).toLowerCase(),(t=document.defaultView.getComputedStyle(t,""))&&t.getPropertyValue(e)):null));if(d.parentNode.removeChild(d),t)for(var n=i.m&&i.m.alc?i.m.alc:{},o=0;o<n.length;o++)!function(e,t){var n=new Image,o=i.m&&i.m.rl?encodeURIComponent(i.m.rl).replace(/#.*/g,""):"",d={logid:"kfk",evtid:"adpl",tp:t,cid:i.m&&i.m.cid?i.m.cid:"",crid:i.m&&i.m.crid?i.m.crid:"",vi:i.m&&i.m.vi?i.m.vi:"",requrl:o,adt1:t},t=Object.keys(d).filter(function(e){return"requrl"!==e}).map(function(e){return encodeURIComponent(e)+"="+encodeURIComponent(d[e])}).join("&");n.src=e+"?"+t+"&requrl="+o}(n[o].ht+"/"+n[o].pt,n[o].tp)},0)}();!function(){window.olaSyncCount=window.olaSyncCount||0,window.__bdata="";var e,t,n,o,c,r,i,d,a,s,u,l,m={"id":"_ol_one_1791402024393285396","l2u":"https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%28Xy=m\u0026%28h%295u%2A=m\u0026%29Vy=.gP40Hk%21r\u0026%2Ah=\u0026-%29d%29=\u0026-DuoQQo5C%29=\u0026-yh%29Y=\u00263Vy=2nZ22Z.yb.W2rb26%2AZb_q5lbyZ2_qn.Zm__5\u00263dW%2A=3u5\u00265QYVy=\u0026D5=m\u0026DVy=2n6Z22\u0026DVyc6=2n6Z22\u0026DW5=\u0026DyYRy=\u0026Eh%29W=Z\u0026GLL%29h=Z\u0026JDVy=\u0026LhQ5=pZrln\u0026QGuE6=3hc2oVuLQ\u0026QGuEr=ZgP.OrklP\u0026QL%29Vy=\u0026QQ=0j\u0026QVy=.B0lO.9r.\u0026QYVy=r26lm22..\u0026Qyc=Prl2q\u0026VhVy=m\u0026VuLQd=.fwJHlnwI%3AP.pItl%7Cb5.w%3A%2A_zNV%28N%28V7N%28Se%7Cbt.w%3A%28F_N%28F%28N%28VeN_%7CPf.w%3A%28F_N%28F%28N%28VeN%28FG\u0026W%29B%28=\u0026WD%2Ad~Vy=c6\u0026WQL=g9RY%2AutXtWY%2F%28rr%2FC9Xr2F5s%28%2Fs%28%2ACr5%28%28%28\u0026Wy3EWVu=\u0026WyL6=\u0026WyLZ=\u0026Wyc=\u0026Xy%29Y=m\u0026Xy%29YQuhL=\u0026Y5a%28Yd=GLL%29h%3A%2F%2FXGb%29Y3C-Nu5L\u0026cV=Zl_Z2m6m62r_r6.nr_q\u0026d6L-%295=yE3dW\u0026hDyYRy=\u0026hQ=RF\u0026hVs5=ZZn2Cq._\u0026hhdy=%7B%22hhQQ%22%3A%220j%22%2C%22hhQL-%22%3A%22y5h+E3Vu5h%22%2C%22hhV%29%22%3A%22%22%2C%22hhhQ%22%3A%22RF%22%2C%22hhsV%29%22%3A%22%22%7D\u0026htmlsrc=1\u0026kkdd=u%7Cu%7CH9%2AAn3\u0026tpid=\u0026uE5YY=Z\u0026uLc=\u0026xy=\u0026x~Y%2A=\u0026y5QEEE=\u0026yEL%29Vy=__mmq26lq\u0026yEY%2A=Z\u0026~dhL%29=m\u0026~hG%29=m","l2h":"acl=\u0026aclp=\u0026cl=\u0026clp=\u0026hvsid=00001791402024656021896732169057\u0026l2type=dmola\u0026lp=%7B%22ppvi%22%3A%222153894762464913629%22%2C%22wlstp%22%3A%220%22%7D\u0026matchstring=\u0026pvl=%7B%22nmerr%22%3A%221%22%7D\u0026pvlp=\u0026sbdrId=\u0026verid=","vgh":"vgd_sc=IA\u0026vgd_cmp_inj_fl=false","so":{"bid":"452144","l2host":"https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%21%21al=%7B%22%21%21rr%22%3A%22i2%22%2C%22%21%21rQ6%22%3A%22lj%21+1xvEj%21%22%2C%22%21%21vY%22%3A%22%22%2C%22%21%21%21r%22%3A%22W-%22%2C%22%21%21RvY%22%3A%22%22%7D\u0026%217lLWl=\u0026%21r=W-\u0026%21vRj=uuMp5F%2A_\u0026%28%21DY=U\u0026%28a%21QY=U\u0026%29v=uq_upUAUApt_tA%2AMt_F\u00261%21YB=u\u002667Ekrrkj5Y=\u00266YaY=\u00266l%21YL=\u00267Bj=\u00267j=U\u00267lLWl=\u00267vl=pMAupp\u00267vl%29A=pMAupp\u0026B7Sa%28vl=%29A\u0026BY~c=\u0026Bl%29=\u0026BlQA=\u0026BlQu=\u0026Blx1BvE=\u0026BrQ=zCWLSEdsdBL%2Fctt%2F5Cstp-jRc%2FRcS5tjccc\u0026DQQY%21=u\u0026E1jLL=u\u0026EQ%29=\u0026K7vl=\u0026LjocLa=DQQY%21%3A%2F%2FsDXYLx56bEjQ\u0026Q%21rj=OutqM\u0026S%21=\u0026Yvl=%2AzPIiTHwt\u0026aAQ6Yj=l1xaB\u0026c%21YjES=U\u0026csl=U\u0026e%28LS=\u0026el=\u0026htmlsrc=1\u0026jrLvl=\u0026kkdd=nH%7C3%7C9%2AAHn\u0026l1LS=u\u0026l1QYvl=__UUFpAqF\u0026ljr111=\u0026rDE1A=x%21%29pkvEQr\u0026rDE1t=uzP%2AhtHqP\u0026rLvl=tpAqUpp%2A%2A\u0026rQYvl=\u0026rl%29=PtqpF\u0026rr=i2\u0026rvl=%2A~iqh%2ACt%2A\u0026slYL=U\u0026slYLrE%21Q=\u0026tpid=\u0026v%21vl=U\u0026vEQra=%2Ag3KTqM3G%3AP%2AOGdq%7CXj%2A3%3AS_mbvcbcv9bc8V%7CXd%2A3%3Ac-_bc-cbcvVb_%7CPg%2A3%3Ac-_bc-cbcvVbc-D\u0026xaBS=xEj\u0026xvl=pMuppu%2AlX%2ABptXpASuX_FjqXlup_FM%2AuU__j","be":"0","nmerr":"1"},"w":"100%","h":"100%","scr":"yes","ek":"cut2FAC698y RjrwgLUqsSo71/J53V~4lPWe-0_nfBXaKTbizdvkZ|DpGMNIYHxO=QhEm","es":11,"m":{"alc":[{"ht":"https://l.cdn-fileserver.com","pt":"log","tp":"CM"},{"ht":"https://gh-proxy.net","pt":"sk-lgprxfwd.php","tp":"DM"}],"vi":"1791402024393285396","cid":"8CU7G8B38","crid":"342704488","rl":"https://gh-proxy.net","mprpslog":"76TRvM47JREXQh6WIYrlcVaTQxUlCPJGV4JPmdog0fSWeWEKpUrqmkrKbZUWzoDd-r-1glIqzWPg8h42LFdBfe6NLAh-qkrXEQgTAS2ge1e5KaziqkSX0QN0OiQstiXJAifva5RGa0hrZIz16ql_mupdJhIFhjTpsjG8TJktywCeko6IVQj75lgoQdVjh3wNbk0BcjcUd4w%3D"}};function p(){var e,t=m.cks;f(t)&&(document.body?((e=document.createElement("iframe")).id="_mN_cksync_"+window.olaSyncCount,e.width=0,e.height=0,e.style.display="none",e.style.visibility="hidden",e.setAttribute("frameborder","0"),document.body.appendChild(e),e=e,t=t,t="<!DOCTYPE html><html><head>"+["<scr",'ipt type="text/javascript">'].join("")+'var syncURL = "'+t+'" ;  function createTag() { window.location.replace(syncURL); }'+["</scr","ipt>"].join("")+'</head><body onload="createTag()"></body></html>',(e=(e=e.contentWindow||e.contentDocument).document?e.document:e).open(),e.write(t),e.close(),window.olaSyncCount++):setTimeout(p,100))}function w(e){for(var t=m.es,n=m.ek,o=(e=""+e,""),c=0;c<e.length;c++){var r=e.charAt(c),i=n.indexOf(r);o+=0<=i?n.charAt((i+t)%n.length):r}return o}function h(e){return e&&"object"==typeof e}function y(e){return"function"==typeof e}function f(e){switch(typeof e){case"string":return void 0!==e&&""!==e&&null!==e;case"object":return null!==e;case"number":case"boolean":return 1;default:return}}h(m)&&(e=Date.now(),t={prel2:e},n=m.l2u,o=m.l2h,c=m.vgh,r=m.so,i=m.m,d=m.w,a=m.h,s=m.scr,u=m.id,y(window.csRsz2)?r.resdnv2=window.csRsz2():r.resdnv2=i.cr,n=n+"&eobd="+encodeURIComponent(w(decodeURIComponent(window.__bdata)))+"&eoac="+encodeURIComponent(w(i.acid)),f(i.chnm)&&(n=n+"&eoch="+encodeURIComponent(w(i.chnm))),h(i.ssm)&&h(i.clkd)&&(i.clkd.bdata=decodeURIComponent(window.__bdata),r.ssmcr=i.ssm,r.clkTrkData=i.clkd),n=function(e,t,n){e=e.split("?");return e[0]+"?"+t+"="+encodeURIComponent(n)+"&"+e[1]}(n,"ule",n.length),n+="&ure=1",r.csip=i.csip,y(window.userFrequencyTracker)&&(0<(l=userFrequencyTracker().getLocalStorageCount())&&(c+="&vgd_lsct="+l),0<(l=userFrequencyTracker().getSessionStorageCount()))&&(c+="&vgd_ssct="+l),l=c+"&"+o+"&acid="+i.acid+"&mprpslog="+i.mprpslog+"&tchkpts="+encodeURIComponent(JSON.stringify(t))+"&stime="+e+"&l3d="+encodeURIComponent(encodeURIComponent(JSON.stringify(r))),i.prvDet&&(l+="&prvDet="+encodeURIComponent(JSON.stringify(i.prvDet))),function(){var t=!1;try{"object"==typeof window.top&&"object"==typeof window&&(t=window.top!=window)}catch(e){t=!0}return t}()&&(l+="&infr=1"),function(e){try{if(e&&e.top&&e.top.document)return 1}catch(e){}return}(window)||(l+="&twna=1"),""===s&&(s="no"),(c=document.createElement("iframe")).width=d,c.height=a,c.setAttribute("src",n+"#"+l),c.setAttribute("scrolling",s),c.setAttribute("frameborder","0"),c.setAttribute("marginheight","0"),c.setAttribute("marginwidth","0"),c.onload=function(){p()},document.getElementById(u).appendChild(c))}();</script></body>
+</html>
+    </div>
+</div>
+</div>
+
+<div class="footer">
+    <footer class="footer-links">
+        <a href="https://skenzo.com/sk-privacy.php" target="_blank" >Privacy policy</a>
+    </footer>
+  </div>
+
+
+
+<script>
+   
+document.addEventListener('DOMContentLoaded', (event) => {
+
+var pubUrl = "https://gh-proxy.net";
+var urlObj = new URL(pubUrl);
+var params = urlObj.searchParams;
+
+const hasCount = params.has("og_kcnt");
+const hasFkwd = params.has("fkwd");
+const count = parseInt(params.get("og_kcnt"));
+
+var dynamicDomainName = params.get("dn");
+var fallbackDomainName = "gh-proxy" + "." + "net";
+var domainName = dynamicDomainName ? dynamicDomainName : fallbackDomainName;
+
+updateDomainTitle(domainName); 
+
+});
+
+function updateDomainTitle(domainName) {
+    document.querySelector(".wrapper .heading").textContent = domainName;
+    document.querySelector(".wrapper .heading").style.visibility = "visible";
+}
+
+
+</script>
+<div >
+	<a style="display: none;height:25px;line-height:25px;color: rgb(136, 136, 136);text-align: center;line-height:25px;width: 100%;position: fixed;bottom: 0px;left: 0px;z-index: 9999;background-color: #10162c;padding: 0px 0;text-decoration: none;font-family: Arial, sans-serif;font-size: clamp(11px, 2.5vw, 15px);" id="dnslink" href="#" onclick="__cmp('showScreen'); return false">Do Not Sell or Share My Personal Information</a>
+	 </div><script>
+  function checkDNS() {
+    __cmp('getCMPData', true, function(x) {
+        var possibleKeys = ['CCPA','USVCDPA','USCPA','USUCPA','USCAPDP','USTDPSA','USOCDPA','USMTCDPA','USFDBR','USDPDPA','USICDPA','USNEDPA','USNHPA','USNJDPA','USTIPA','USMCDPA']; //add possible regulations where to show the DNS-link
+        if ('regulationKey' in x && possibleKeys.indexOf(x.regulationKey) != -1) {
+          document.getElementById('dnslink').style.display = 'block'; /* show the link*/
+          document.querySelectorAll('[id^="_ol_one_"]').forEach(el => {
+  			el.style.height = "calc(100vh - 25px)";
+          });
+        } else {
+          document.getElementById('dnslink').style.display = 'none'; /* don't show the link*/
+		  document.querySelectorAll('[id^="_ol_one_"]').forEach(el => {
+  			el.style.height = "100vh";
+          });
+        }
+      });
+    }
+    setInterval(checkDNS, 1000);
+</script></body>
+</html>
